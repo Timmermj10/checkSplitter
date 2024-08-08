@@ -1,0 +1,7 @@
+Think about how difficult it has been to get the correct data out of receipts
+
+Noticed that it is pretty good at getting the prices
+
+We know that the total will always be the largest value listed on the receipt
+
+Just need to get all the lines with prices, and choose the greatest prices as the total, then we can put more focus into getting individual items
